@@ -39,6 +39,10 @@
     "ru": "Назад",
     "uz": "Orqaga"
   },
+  "cancel": {
+    "ru": "Отмена",
+    "uz": "Bekor qilish"
+  },
   "home": {
     "ru": "Главная",
     "uz": "Bosh sahifa"
