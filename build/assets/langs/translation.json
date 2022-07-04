@@ -138,5 +138,13 @@
   "yourMessage": {
     "ru": "Ваше собшение",
     "uz": "Xabaringiz"
+  },
+  "send": {
+    "ru": "Отправить",
+    "uz": "Jo'natish"
+  },
+  "deleteAll": {
+    "ru": "Удалит все",
+    "uz": "Barchasini o'chirish"
   }
 }
