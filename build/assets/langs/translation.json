@@ -153,19 +153,51 @@
   },
   "yourData": {
     "ru": "Ваши данные",
-    "uz": ""
+    "uz": "Sizning ma'lumotlaringiz"
   },
-  "yourOrders": {
+  "yourOrder": {
     "ru": "Ваш заказ",
-    "uz": ""
+    "uz": "Sizning buyurtmangiz"
   },
   "selectPayMeth": {
     "ru": "Выберите способ оплаты",
-    "uz": ""
+    "uz": "To'lov usullarini tanlang"
   },
   "howToObtain": {
     "ru": "Способ получения",
-    "uz": ""
+    "uz": "Qabul qilish usuli"
+  },
+  "enterDeliveryAddress": {
+    "ru": "Укажите адрес доставки",
+    "uz": "Yetkazib berish manzilini kiriting"
+  },
+  "address": {
+    "ru": "Адрес",
+    "uz": "Manzil"
+  },
+  "floor": {
+    "ru": "Этаж",
+    "uz": "Qavat"
+  },
+  "dateDelivery": {
+    "ru": "Дата доставки",
+    "uz": "Yetkazib berish sanasi"
+  },
+  "regionOblast": {
+    "ru": "Регион / Область",
+    "uz": "Viloyat"
+  },
+  "cityDistr": {
+    "ru": "Город  / Район",
+    "uz": "Shahar / Tuman"
+  },
+  "totalPayment": {
+    "ru": "Всего к оплате",
+    "uz": "Jami to'lov"
+  },
+  "goodForAmount": {
+    "ru": "товара на сумму",
+    "uz": "tovar narxga"
   },
   "ty": {
     "ru": "шт",
