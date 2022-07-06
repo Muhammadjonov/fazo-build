@@ -67,10 +67,6 @@
     "ru": "Все категории",
     "uz": "Barcha kategoriyalar"
   },
-  "profile": {
-    "ru": "Личный кабинет",
-    "uz": "Shaxsiy kabinet"
-  },
   "logout": {
     "ru": "Выйти",
     "uz": "Chiqish"
@@ -150,5 +146,37 @@
   "filter": {
     "ru": "Фильтр",
     "uz": "Filtrlash"
+  },
+  "checkout": {
+    "ru": "Оформить покупку",
+    "uz": "Sotib olish"
+  },
+  "yourData": {
+    "ru": "Ваши данные",
+    "uz": ""
+  },
+  "yourOrders": {
+    "ru": "Ваш заказ",
+    "uz": ""
+  },
+  "selectPayMeth": {
+    "ru": "Выберите способ оплаты",
+    "uz": ""
+  },
+  "howToObtain": {
+    "ru": "Способ получения",
+    "uz": ""
+  },
+  "ty": {
+    "ru": "шт",
+    "uz": "ta"
+  },
+  "delivery": {
+    "ru": " Доставка",
+    "uz": "Yetkazib berish"
+  },
+  "free": {
+    "ru": "бесплатно",
+    "uz": "bepul"
   }
 }
