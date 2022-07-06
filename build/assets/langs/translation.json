@@ -210,5 +210,13 @@
   "free": {
     "ru": "бесплатно",
     "uz": "bepul"
+  },
+  "onlineOrders": {
+    "ru": "Онлайн заказы",
+    "uz": "Onlayn buyurtmalar"
+  },
+  "emptyOrderText": {
+    "ru": "У вас нет покупок",
+    "uz": "Sizda xaridlar yo'q"
   }
 }
