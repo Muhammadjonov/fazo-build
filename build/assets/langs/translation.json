@@ -218,5 +218,21 @@
   "emptyOrderText": {
     "ru": "У вас нет покупок",
     "uz": "Sizda xaridlar yo'q"
+  },
+  "compare": {
+    "ru": "К сравнению",
+    "uz": "Taqqoslash"
+  },
+  "addToCart": {
+    "ru": "В корзину",
+    "uz": "Savatchaga qo'shish"
+  },
+  "addToFavourites": {
+    "ru": "В избранные",
+    "uz": "Sevimlilarga qo'shish"
+  },
+  "searchResults": {
+    "ru": "Результаты поиска",
+    "uz": "Qidiruv natijalari"
   }
 }
