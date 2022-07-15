@@ -426,5 +426,25 @@
   "productCharacteristics": {
     "ru": "Характеристики товара",
     "uz": "Mahsulot xususiyatlari"
+  },
+  "treaty": {
+    "ru": "Договорная",
+    "uz": "Kelishish mumkin"
+  },
+  "sendCodeAgain": {
+    "ru": "Отправить код еще раз",
+    "uz": "Kodni qayta yuboring"
+  },
+  "yourMessageHasBeenSent": {
+    "ru": "Ваше сообщение отправлено",
+    "uz": "Xabaringiz jo'natildi"
+  },
+  "requiredErrMessage": {
+    "ru": "Это поле является обязательным",
+    "uz": "Ushbu maydonni to'ldirish majburiy"
+  },
+  "shareYourOpinion": {
+    "ru": "Поделитесь мнением о нашей работе",
+    "uz": "Bizning ishimiz haqida fikringizni o`rtoqlashing"
   }
 }
