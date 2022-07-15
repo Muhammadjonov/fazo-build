@@ -283,6 +283,10 @@
     "ru": "Нет избранных товаров",
     "uz": "Tanlangan mahsulotlar yo'q"
   },
+  "noCompares": {
+    "ru": "Нет сравнение товаров",
+    "uz": "Tanlangan mahsulotlar yo'q"
+  },
   "noSearchingResult": {
     "ru": "Результаты поиска не найдены",
     "uz": "Qidiruv bo'yicha hech narsa topilmadi"
