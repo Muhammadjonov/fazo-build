@@ -233,7 +233,7 @@
   },
   "balance": {
     "ru": "Сравнить",
-    "uz": "Таққослаш"
+    "uz": "Taqqoslash"
   },
   "addToCart": {
     "ru": "В корзину",
@@ -462,5 +462,9 @@
   "acceptYourApp": {
     "ru": "Ваша заявка принята",
     "uz": "Arizangiz qabul qilindi"
+  },
+  "buyInInstallments": {
+    "ru": "Купить в рассрочку",
+    "uz": "Muddatli to'lovga harid"
   }
 }
