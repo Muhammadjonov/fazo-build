@@ -71,6 +71,10 @@
     "ru": "Выйти",
     "uz": "Chiqish"
   },
+  "code": {
+    "ru": "Код №",
+    "uz": "Kod №"
+  },
   "signInOrCreateAccount": {
     "ru": " Войти или создать профиль",
     "uz": "Kirish yoki ro'yhatdan o'tish"
@@ -466,5 +470,45 @@
   "buyInInstallments": {
     "ru": "Купить в рассрочку",
     "uz": "Muddatli to'lovga harid"
+  },
+  "perMonth": {
+    "ru": "месяц",
+    "uz": "oyiga"
+  },
+  "installmentType": {
+    "ru": "Тип рассрочки",
+    "uz": "To'lov turi"
+  },
+  "installmentPeriod": {
+    "ru": "Срок рассрочки",
+    "uz": "To'lov muddati"
+  },
+  "monthlyPayment": {
+    "ru": "Ежемесячный платеж",
+    "uz": "Oylik to'lov"
+  },
+  "enterPhoneNumber": {
+    "ru": "Введите номер телефона",
+    "uz": "Telefon raqamingizni kiriting"
+  },
+  "notRegistered": {
+    "ru": "Если вы не зарегистрированы, пожалуйста",
+    "uz": "Agar ro'yhatdan o'tmagan bo'lsangiz"
+  },
+  "conInstallPays": {
+    "ru": "Удобная оплата частями",
+    "uz": "Qulay qismli to'lov"
+  },
+  "installAmount": {
+    "ru": "Сумма рассрочки: с учетом максимального лимита",
+    "uz": "To'lov miqdori: maksimal chegarani hisobga olgan holda"
+  },
+  "termMonth": {
+    "ru": "Срок (месяцы)",
+    "uz": "Muddat (oylar)"
+  },
+  "amountTotalPay": {
+    "ru": "Сумма общей оплаты",
+    "uz": "Umumiy to'lov miqdori"
   }
 }
