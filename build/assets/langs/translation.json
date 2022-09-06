@@ -510,5 +510,21 @@
   "amountTotalPay": {
     "ru": "Сумма общей оплаты",
     "uz": "Umumiy to'lov miqdori"
+  },
+  "intendTitle": {
+    "ru": "Рассрочка? Легко! Выбирай и забирай, плати потом.",
+    "uz": "Muddatli to'lovmi? Juda qulay! Tanlang, oling va keyin to'lang"
+  },
+  "verificationRequired": {
+    "ru": "",
+    "uz": "Tasdiqlash talab etiladi"
+  },
+  "confirm": {
+    "ru": "",
+    "uz": "Tasdiqlash"
+  },
+  "resendCode": {
+    "ru": "",
+    "uz": "Qayta yuborish"
   }
 }
