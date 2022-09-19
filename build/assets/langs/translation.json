@@ -515,16 +515,24 @@
     "ru": "Рассрочка? Легко! Выбирай и забирай, плати потом.",
     "uz": "Muddatli to'lovmi? Juda qulay! Tanlang, oling va keyin to'lang"
   },
-  "verificationRequired": {
-    "ru": "",
-    "uz": "Tasdiqlash talab etiladi"
-  },
   "confirm": {
-    "ru": "",
+    "ru": "Подтверждение",
     "uz": "Tasdiqlash"
   },
   "resendCode": {
-    "ru": "",
+    "ru": "Отправить повторно",
     "uz": "Qayta yuborish"
+  },
+  "weSendCode": {
+    "ru": "Мы отправили код на номер",
+    "uz": "Quyidagi raqamga kod yuborildi"
+  },
+  "confirmationCode": {
+    "ru": "Код подтверждения",
+    "uz": "Tasdiqlash kodi"
+  },
+  "confirmationRequired": {
+    "ru": "Требуется подтверждение",
+    "uz": "Tasdiqlsh talab etiladi"
   }
 }
